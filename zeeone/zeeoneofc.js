@@ -82,8 +82,6 @@ const convert = (prefix) => {
 const download = (prefix) => {
 	return`┌❑ *DOWNLOAD MENU* ❑
 │
-├❒ ${prefix}xnxxsearch [query]
-├❒ ${prefix}xnxxdl [link]
 ├❒ ${prefix}ytsearch [query]
 ├❒ ${prefix}ytshorts [url]
 ├❒ ${prefix}igstalk [username]
