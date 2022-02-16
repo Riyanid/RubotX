@@ -2716,7 +2716,7 @@ case 'bcgif':{
 					"displayName": `${ini_list.length} kontak`,
 					"contacts": ini_list 
 					}, 'contactsArrayMessage', { quoted: fkontak})
-					var ini_gopayy =`Halo @${sender.split("@")[0]} itu owner ku, jangan lupa donasi kak😇`
+					var ini_gopayy =`Halo @${sender.split("@")[0]} itu owner ku, Cuma Save No cewe ya:v`
 var buttonss = [
 {buttonId: 'donasi', buttonText:{displayText: 'Donasi'}, type: 1},
 {buttonId: 'sewabot', buttonText:{displayText: 'Sewa'}, type: 1}
